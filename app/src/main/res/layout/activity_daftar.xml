@@ -11,7 +11,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_marginBottom="40sp"
         android:background="#FFEB3B"
         android:text=" Pendaftaran Data Mahasiswa"
@@ -21,7 +21,7 @@
     <EditText
         android:id="@+id/inputnim"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_margin="20sp"
         android:layout_marginTop="20sp"
         android:layout_marginBottom="10sp"
@@ -32,7 +32,7 @@
     <EditText
         android:id="@+id/inputnama"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_margin="20sp"
         android:layout_marginBottom="20sp"
         android:ems="10"
@@ -42,7 +42,7 @@
     <EditText
         android:id="@+id/inputemail"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_margin="20sp"
         android:ems="10"
         android:hint="Masukkan E-Mail"
@@ -51,7 +51,7 @@
     <EditText
         android:id="@+id/inputpassword"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="50dp"
         android:layout_margin="20sp"
         android:ems="10"
         android:hint="Masukkan Password"
